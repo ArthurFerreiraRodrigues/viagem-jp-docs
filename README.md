@@ -11,4 +11,4 @@
 
 1. Entre na pasta do projeto `cd viagem-jp-docs`
 2. Execute o comando `mkdocs serve`
-3. Abra [http://localhost:8000](http://localhost:8000`).
+3. Abra o [link](http://localhost:8000).
