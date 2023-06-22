@@ -1,0 +1,31 @@
+site_name: Documentação
+
+repo_name: JP Trip
+repo_url: https://github.com/ArthurFerreiraRodrigues/viagem-jp-docs
+
+site_description: "Viagem com os manos para João Pessoa de 05/03/2024 a 13/03/2024."
+
+edit_uri: ""
+
+theme:
+  name: material
+
+  logo: stylesheets/assets/images/logo-horizont.png
+
+  favicon: stylesheets/assets/favicon.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ArthurFerreiraRodrigues/viagem-jp-docs
+
+nav:
+  - Home: index.md
