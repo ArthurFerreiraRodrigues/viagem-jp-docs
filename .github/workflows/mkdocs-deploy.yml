@@ -6,11 +6,8 @@ name: Deploy MkDocs
 on:
   # Triggers the workflow on push events but only for the "main" branch and path "docs"
   push:
-    branches: ["main"]
+    branches: ["master"]
     paths: ["docs/**", docs/, "mkdocs.yml"]
-
-  # pull_request:
-  #   branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
